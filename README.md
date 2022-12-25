@@ -1,4 +1,4 @@
-Implemented Different Classifiers to predict the Exercise based on the physical terminal poses of the excercise
+Implemented different Classifiers to predict the Exercise based on the physical terminal poses of the exercise using sklearn
 
 Classifiers implemented:
 - Logisitc Regression
